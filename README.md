@@ -1,6 +1,14 @@
+<div align="center">
+  
 # Roberto Lima
+  
+**Software developer — Python & Rust.**
 
-**Software developer — Python & Rust.** I build production software and open-source libraries, and teach modern web technologies.
+<span style="color:#12345A">I build production software and open-source libraries, and teach modern web technologies.</span>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -13,6 +21,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=robertolima-dev&color=9747ff&label=Profile+views)
 
 </div>
+
+---
 
 ### 👨‍💻 About Me
 
